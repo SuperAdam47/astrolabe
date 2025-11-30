@@ -44,4 +44,4 @@ Now you can rise up astrolabe with hot loading.
 
 # License
 
-MIT
+MIT license
